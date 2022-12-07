@@ -12,7 +12,7 @@ public class AlphabeticCharacters {
             }
         }
         else{
-            System.out.println("wrong alphabet! ");
+            System.out.println("wrong alphabet!");
         }
     }
 }
